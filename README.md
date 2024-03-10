@@ -38,13 +38,12 @@ Asegúrese de tener instalados los siguientes componentes antes de comenzar:
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Christofer2002/ElectroTech.git
-cd ElectroTechBack
+git clone https://github.com/Christofer2002/Meetings-Manager.git
+cd BackendMeetingsManager
 ````
 
 2. Configuración de la Base de Datos
 
-Cree una base de datos en MySQL llamada electrotech_db.
 Actualice las configuraciones de la base de datos en src/main/resources/application.properties.
 
 3. Ejecutar la aplicación
@@ -58,7 +57,7 @@ El backend estará disponible en http://localhost:8080.
 1. En el directorio raíz del proyecto, navegue al directorio del frontend.
    
 ```bash
-cd ElectroTechFront
+cd FrontendMeetingsManager
 ```
 2. Instalar dependencias
    
